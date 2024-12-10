@@ -1,5 +1,7 @@
 # ALLSTAR.applescript
 
+Unrelentingly types out Smashmouth's All Star, one letter at a time
+
 ## Set up
 
 - Copy the .applescript into an open applescript window and save or run
@@ -8,9 +10,11 @@
 
 - You can give focus to a document, chat window, or any textfield that can receive text input
 
-- It will not stopped until finished or force quit
+- It will not stop until finished or force quit
 
 # SMOUTHMASH.py
+
+Markov chain generator with input from the Smashmouth lyrics
 
 ## Sample outputs
 
